@@ -10,10 +10,13 @@ var port = process.env.PORT || 1337;
 //}).listen(port);
 
 
-app.get('*', function (req, res) {
+app.get('/', function (req, res) {
     res.sendFile('index.html', { "root": __dirname });
 });
 
+app.get('/about', function (req, res) {
+    res.sendFile('about.html', { "root": __dirname });
+});
 
 var server = app.listen(port, function () {
     console.log('Node server is running on port..' + port);

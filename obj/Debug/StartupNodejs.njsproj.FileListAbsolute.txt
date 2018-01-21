@@ -1,3 +1,4 @@
 D:\Work\Trial\StartupNodejs\StartupNodejs\obj\Debug\StartupNodejs.njsproj.CoreCompileInputs.cache
 D:\Work\Trial\StartupNodejs\StartupNodejs\bin\Microsoft.NodejsTools.WebRole.dll
 D:\Article\NodeJS\StartupNodejs\StartupNodejs\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Article\NodeJS\StartupNodejs\StartupNodejs\obj\Debug\StartupNodejs.njsproj.CoreCompileInputs.cache
