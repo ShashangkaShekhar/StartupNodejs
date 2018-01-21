@@ -18,6 +18,7 @@ app.get('/about', function (req, res) {
     res.sendFile('about.html', { "root": __dirname });
 });
 
+//Create Server
 var server = app.listen(port, function () {
     console.log('Node server is running on port..' + port);
 });
